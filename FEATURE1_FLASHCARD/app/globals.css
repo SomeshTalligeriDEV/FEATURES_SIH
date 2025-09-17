@@ -1,0 +1,28 @@
+/* Import Tailwind CSS base styles */
+@import 'tailwindcss/base';
+
+/* Import Tailwind CSS component styles */
+@import 'tailwindcss/components';
+
+/* Import Tailwind CSS utility styles */
+@import 'tailwindcss/utilities';
+
+:root {
+  --foreground: #ededed;
+}
+
+body {
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.nav-button:hover {
+  background-color: rgba(14, 12, 44, 0.1);
+}
+
