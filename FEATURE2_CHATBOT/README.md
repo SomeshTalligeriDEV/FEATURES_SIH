@@ -38,24 +38,25 @@ The Educational Assistant Bot is designed to support students and learners by pr
 python -m venv venv
 
 # Activate virtual environment
+
 # On macOS/Linux:
 source venv/bin/activate
 # On Windows:
 venv\Scripts\activate
 
-#Install the required dependencies:
+# Install the required dependencies:
 pip install -r requirements.txt
 
 
-Create a .env file in the project root directory with the following content:
+# create a .env file in the project root directory with the following content:
 
 OPENAI_API_KEY=your_openai_api_key_here
-# Optional: Include these if using extensions
-# TELEGRAM_TOKEN=your_telegram_bot_token
-# HUGGINGFACE_API_KEY=your_huggingface_api_key
+Optional: Include these if using extensions
+TELEGRAM_TOKEN=your_telegram_bot_token
+HUGGINGFACE_API_KEY=your_huggingface_api_key
 
 
-Running the Application
+ # Running the Application
 
 Activate the virtual environment:
 
@@ -63,6 +64,7 @@ source venv/bin/activate
 # On Windows: venv\Scripts\activate
 
 
-Run the assistant:
+# Run the assistant:
 
 python app.py
+
