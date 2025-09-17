@@ -50,10 +50,10 @@ pip install -r requirements.txt
 
 # create a .env file in the project root directory with the following content:
 
-OPENAI_API_KEY=your_openai_api_key_here
-Optional: Include these if using extensions
-TELEGRAM_TOKEN=your_telegram_bot_token
-HUGGINGFACE_API_KEY=your_huggingface_api_key
+OPENAI_API_KEY=your_openai_api_key_here.
+Optional: Include these if using extensions.
+TELEGRAM_TOKEN=your_telegram_bot_token.
+HUGGINGFACE_API_KEY=your_huggingface_api_key.
 
 
  # Running the Application
@@ -67,4 +67,5 @@ source venv/bin/activate
 # Run the assistant:
 
 python app.py
+
 
