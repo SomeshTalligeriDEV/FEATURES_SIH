@@ -149,19 +149,4 @@ Got questions? Ideas? Just want to say hi? Reach out!
 
 🔗 Project Home: [Saarathi on GitHub](https://github.com/SomeshTalligeriDEV/Saarathi_SIH)
 
-## 💝 Special Thanks
 
-A big shoutout to the amazing technologies and people that make Saarathi possible:
-
-- 🎯 **Next.js Team** - For the incredible framework
-- 🔥 **Firebase Team** - For the powerful backend services
-- 🤖 **Google Gemini Team** - For the AI magic
-- 👥 **Our Contributors** - For making Saarathi better every day
-- 💡 **Our Users** - For inspiring us to keep improving
-
----
-
-<div align="center">
-  <p>Made with ❤️ by the Saarathi Team</p>
-  <p>Happy Learning! 🎓</p>
-</div>
