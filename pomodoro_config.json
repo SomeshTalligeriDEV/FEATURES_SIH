@@ -1,0 +1,21 @@
+{
+  "work_duration": 25,
+  "short_break_duration": 5,
+  "long_break_duration": 15,
+  "background_file": "mountain.webp",
+  "timer_color": [
+    173,
+    216,
+    230
+  ],
+  "timer_font_family": "serif",
+  "custom_font_file": "21",
+  "timer_size": 72,
+  "music_enabled": false,
+  "music_volume": 0.78,
+  "current_playlist": 0,
+  "music_pause_on_breaks": false,
+  "window_width": 1200,
+  "window_height": 800,
+  "fullscreen": true
+}

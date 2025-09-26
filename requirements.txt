@@ -1,0 +1,17 @@
+# Pomodoro Timer - Required Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core game engine and multimedia library
+pygame>=2.1.0
+
+# Additional dependencies for audio/image processing (optional but recommended)
+# These may be needed for certain audio formats or image processing
+pillow>=8.0.0
+
+# For better audio support (optional)
+# pygame already includes basic audio support, but these can enhance it
+# numpy>=1.20.0  # Uncomment if you want enhanced audio processing
+
+# Development dependencies (optional)
+# black>=21.0.0  # Code formatting
+# flake8>=3.9.0  # Code linting
