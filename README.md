@@ -1,14 +1,14 @@
 # SARATHI – Landing Page
 
-Welcome to the SARATHI landing page project. This site introduces the "Digital Krishna for Students"—a suite of AI-powered tools designed to guide students through exam preparation with clarity and confidence.
+Welcome to the SARATHI landing page. Think of this as the home base for students—simple, focused, and easy to explore. The site presents helpful study tools and a friendly introduction to the SARATHI experience.
 
-This README is human-friendly and practical. It helps you run, develop, and deploy the app without changing any of the existing logic or UI.
+This guide is intentionally short and practical. It shows you how to run, develop, and deploy the project without changing any of the existing logic or UI.
 
 ## ✨ What’s inside
 - **Modern Next.js app** using the App Router (`app/`)
 - **Tailwind CSS v4** with PostCSS
 - **Beautiful, comic-inspired UI** built with reusable components in `components/`
-- **Feature grid** linking to external SARATHI tools (Mind Map, Flash Notes, AI Bot)
+- **Feature grid** linking to external SARATHI tools (Mind Map, Flash Notes, Saarathi Bot)
 - **Student success stories** with real avatars from `public/`
 
 ## 🗂️ Key directories
@@ -45,10 +45,10 @@ pnpm start
 Note: Tailwind’s Oxide is disabled at runtime via `TAILWIND_DISABLE_OXIDE=1` for compatibility.
 
 ## 🔗 Feature links used in the site
-Clicking the relevant feature cards opens these tools in a new tab:
+Click the cards on the features grid to open these tools in a new tab:
 - Mind Map Generator → https://mindmap-generator-two.vercel.app/
 - Flashcards Generator → https://flash-notes-omega.vercel.app/
-- AI Chatbot (Saarathi Bot) → https://saarathi-bot.vercel.app/
+- Saarathi Bot → https://saarathi-bot.vercel.app/
 
 You can adjust or add links in `components/features-grid.tsx` via the `linkByTitle` map.
 
